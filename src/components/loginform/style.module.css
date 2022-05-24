@@ -1,0 +1,33 @@
+h1 {
+    margin: 0 0 40px 0;
+    font-size: 27px;
+}
+
+.container {
+    width: 300px;
+    padding: 50px;
+    border: 4px rgb(48, 150, 143) solid;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(207, 207, 207, 0.667);
+    text-align: center;
+    margin:  150px auto;
+    background-color: #fff;
+}
+
+.container div {
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between ;
+}
+
+.container div p {
+    margin: 0;
+}
+
+a {
+    color: #fff;
+    background-color: rgb(48, 150, 143);
+    text-decoration: none;
+    padding: 6px 20px;
+    margin-top: 50px;
+}
